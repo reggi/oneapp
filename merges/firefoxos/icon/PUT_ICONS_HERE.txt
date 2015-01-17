@@ -1,0 +1,2 @@
+e.g. these icons:
+icon-128.png  icon-512.png  icon-60.png
