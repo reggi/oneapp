@@ -1,0 +1,6 @@
+e.g. these icons:
+
+android-hdpi.png    icon-bb-150.png  ios-40.png     ios-57.png	   ios-72.png	  wp-99.png
+android-mdpi.png    icon-bb-86.png   ios-40@2x.png  ios-57@2x.png  ios-72@2x.png
+android-xhdpi.png   ios-29.png	     ios-50.png     ios-60.png	   ios-76.png
+android-xxhdpi.png  ios-29@2x.png    ios-50@2x.png  ios-60@2x.png  ios-76@2x.png
