@@ -1,3 +1,0 @@
-e.g. these icons:
-
-app_icon.icns  app_icon.png
